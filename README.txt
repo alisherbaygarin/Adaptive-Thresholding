@@ -24,6 +24,7 @@ x-------------------------------------------------------------------------------
 |2. opencv is used to read the image, resize the image, display and write the image.	 |
 |											 |
 |Developed using Anaconda, spyder, python3.						 |
+|Github: https://github.com/dotdotdotdash/Adaptive-Thresholding				 |
 |											 |
 x----------------------------------------------------------------------------------------x
 
